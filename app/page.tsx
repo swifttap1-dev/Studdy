@@ -416,7 +416,7 @@ export default function StudyPage() {
               WebkitTextFillColor: "transparent",
               letterSpacing: "-0.02em",
             }}>
-              StudyAI
+              StuddyAI
             </h1>
             <p style={{
               margin: "0.25rem 0 0 0",
